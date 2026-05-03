@@ -1,5 +1,6 @@
 Regular Expressions – Java Lab Assignment:
 
+(Here is some tasks for university.)
 Regular expressions are important because they let you quickly and accurately find, validate, and extract patterns in text without writing long manual code.
 
 This repository contains two Java tasks focused on applying regular expressions and validating functionality through JUnit testing. The project demonstrates practical use of pattern matching, file processing, and automated test design.
