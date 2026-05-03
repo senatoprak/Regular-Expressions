@@ -32,6 +32,27 @@ Processes a text file containing student names and grades, extracting only the e
 <img width="899" height="419" alt="Screenshot 2026-05-04 005733" src="https://github.com/user-attachments/assets/595d0b03-9629-4322-bd3b-20cebe81a824" />
 
 
+🧪 How to Run Tests
+To execute the JUnit tests included in this project:
+
+1-Open the project in IntelliJ IDEA (or any Java‑compatible IDE).
+
+2-Ensure that JUnit 5 is correctly configured in the project’s classpath.
+
+3-Navigate to the tests directory under src.
+
+4-Right‑click on either:
+
+-TestEmailValidator.java,
+
+-TestGradeFilter.java,
+
+-or the entire tests folder.
+
+5-Select Run Tests (or Run 'All Tests').
+
+All tests should pass successfully, confirming the correctness of the regex logic and file‑processing methods.
+
 Technologies Used:
 
 -Java
